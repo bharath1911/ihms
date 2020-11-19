@@ -1,2 +1,0 @@
-# ihms
-hospital website
